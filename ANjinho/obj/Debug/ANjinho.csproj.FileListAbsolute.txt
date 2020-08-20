@@ -1,0 +1,10 @@
+C:\Users\Anjinho\source\repos\ANjinho\ANjinho\bin\Debug\ANjinho.exe.config
+C:\Users\Anjinho\source\repos\ANjinho\ANjinho\bin\Debug\ANjinho.exe
+C:\Users\Anjinho\source\repos\ANjinho\ANjinho\bin\Debug\ANjinho.pdb
+C:\Users\Anjinho\source\repos\ANjinho\ANjinho\obj\Debug\ANjinho.csprojAssemblyReference.cache
+C:\Users\Anjinho\source\repos\ANjinho\ANjinho\obj\Debug\ANjinho.Form1.resources
+C:\Users\Anjinho\source\repos\ANjinho\ANjinho\obj\Debug\ANjinho.Properties.Resources.resources
+C:\Users\Anjinho\source\repos\ANjinho\ANjinho\obj\Debug\ANjinho.csproj.GenerateResource.cache
+C:\Users\Anjinho\source\repos\ANjinho\ANjinho\obj\Debug\ANjinho.csproj.CoreCompileInputs.cache
+C:\Users\Anjinho\source\repos\ANjinho\ANjinho\obj\Debug\ANjinho.exe
+C:\Users\Anjinho\source\repos\ANjinho\ANjinho\obj\Debug\ANjinho.pdb
